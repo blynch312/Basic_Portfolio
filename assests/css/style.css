@@ -1,0 +1,93 @@
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #7777;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #7777;
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: solid;
+    border-color: #4aaaa5;
+    width: 100%;
+   
+}
+
+nav {
+    float: right;
+    display: block;
+    text-align: center;
+    margin-top: -80px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #7777;
+    background-image: url(../images/dust_scratches.png) ;
+    padding-top:0 px;  
+}
+
+footer{ 
+    background-color: #666666;
+    border-top: solid;
+    border-color: #4aaaa5;
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: #777777;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+.name_box {
+    background-color: #4aaaa5;
+    width: 205px;
+    border: 10px #4aaaa5;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 10px;
+    color: #ffffff;
+}
+
+.content {
+    border-style: solid;
+    border-color: #dddddd;
+    padding: 30px;
+    background-color: #ffffff;
+    overflow: auto;
+    width:894px;
+    margin: auto;
+
+}
+
+.profile_pic {
+    float: left;
+}
+
+.line {
+    background-color: #dddd;
+    border: none;
+    height: 2px;
+
+}
+
+.heading{
+    width: 960px;
+    margin: auto;
+}
